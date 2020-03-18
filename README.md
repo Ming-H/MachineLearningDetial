@@ -1,1 +1,1 @@
-# Ming-H-MachineLearningDetial
+# MachineLearningDetial
